@@ -21,7 +21,7 @@ After installation, you can launch the dashboard by running the following comman
 ```
 streamlit run dashboard.py
 ```
-This command will start the application and open the dashboard in your default web browser, allowing you to interact with the data and visualizations.
+This command will open the dashboard in your default web browser, allowing you to interact with the data and visualizations.
 
 ### Dashboard Features
 1️⃣ **Data Range Filter:** Filter data by specific date range to view relevant metrics for that period.
