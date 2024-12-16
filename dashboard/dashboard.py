@@ -66,7 +66,7 @@ def create_orders_location(df):
     return orders_location
 
 
-all_df = pd.read_csv("all_data.csv")
+all_df = pd.read_csv("https://raw.githubusercontent.com/orlantha/e-commerce/refs/heads/main/dashboard/all_data.csv")
 
 
 datetime_columns = ["order_purchase_timestamp", "order_delivered_customer_date"]
