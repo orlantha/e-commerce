@@ -24,7 +24,7 @@ streamlit run dashboard.py
 This command will open the dashboard in your default web browser, allowing you to interact with the data and visualizations.
 
 Alternatively, access the deployed e-commerce dashboard directly via the link:  
-[E-Commerce Streamlit Dashboard](https://e-commerce-gy6mqjhtp3ts42noagnktq.streamlit.app)
+[E-Commerce Streamlit Dashboard](https://orlantha-ecommerce-dashboard.streamlit.app)
 
 ### Dashboard Features
 1️⃣ **Data Range Filter:** Filter data by specific date range to view relevant metrics for that period.
