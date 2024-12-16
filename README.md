@@ -39,7 +39,7 @@ Alternatively, access the deployed e-commerce dashboard directly via the link:
 
 6️⃣ **Best Product Performance Bar Chart:** Highlights best-selling products based on customer reviews and the number of orders.
 
-7️⃣ **RFM (Recency, Frequency, and Monetary) Metrics and Bar Charts:** Display customer segmentation based on their purchasing behaviour.
+7️⃣ **RFM (Recency, Frequency, and Monetary) Metrics and Bar Charts:** Display customer segmentation based on their purchasing behavior.
 
 8️⃣ **Geospatial Map:** An interactive map that visualizes sales and revenue distribution accross various locations.
 
